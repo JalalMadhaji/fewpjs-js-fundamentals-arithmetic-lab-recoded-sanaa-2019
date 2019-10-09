@@ -10,6 +10,6 @@ console.log(random);
 
 let mod = 4;
 
-let max = [10,3,5,7,20];
+let max = Math.max([10,3,5,7,20]);
 
 console.log(max);
